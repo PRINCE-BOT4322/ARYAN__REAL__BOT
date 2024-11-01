@@ -16,20 +16,20 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "ARIF-BABU",
-    "PREFIX": "#",
+    "BOTNAME": "ARYAN-BOT",
+    "PREFIX": ".",
     "ADMINBOT": [
-        "61565989891533"
+        "100092750349098"
     ],
     "NDH": [
-        "61565989891533"
+        "100092750349098"
     ],
     "DATABASE": {
         "sqlite": {
             "storage": "data.sqlite"
         }
     },
-    "APPSTATEPATH": "ARIF-BABU.json",
+    "APPSTATEPATH": "ARYAN-KING.json",
     "FCAOption": {
         "forceLogin": true,
         "listenEvents": true,
