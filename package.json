@@ -1,8 +1,8 @@
 {
-		"name": "ARIF-BABU",
+		"name": "ARYAN-KING",
 		"version": "10.1.1",
-		"description": "𝐀 𝐒𝐈𝐌𝐏𝐋𝐄 𝐌𝐄𝐒𝐒𝐄𝐍𝐆𝐄𝐑 𝐁𝐎𝐓  𝐌𝐀𝐃𝐄 𝐁𝐘 𝐀𝐑𝐈𝐅 𝐁𝐀𝐁𝐔 🍎",
-		"main": "ARIF-BABU.js",
+		"description": "𝐀 𝐒𝐈𝐌𝐏𝐋𝐄 𝐌𝐄𝐒𝐒𝐄𝐍𝐆𝐄𝐑 𝐁𝐎𝐓  𝐌𝐀𝐃𝐄 𝐁𝐘 ARYAN-KING🍎",
+		"main": "ARYAN.js",
 		"engines": {
 				"node": "20.x",
 				"npm": "10.0.0"
@@ -26,7 +26,7 @@
 				"prince",
 				"mental"
 		],
-		"author": "𝐀𝐑𝐈𝐅 𝐁𝐀𝐁𝐔 🍎",
+		"author": "ARYAN-KING🍎",
 		"license": "GPL-3.0",
 		"bugs": {
 				"url": "https://github.com/Arif-11/Arif-bot/issues"
