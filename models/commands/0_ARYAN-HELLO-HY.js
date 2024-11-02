@@ -1,9 +1,9 @@
 module.exports.config = {
-  name: "ARIF-HELLO-HY",
+  name: "ARYAN-HELLO-HY",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "PREM BABU",
-  description: "THIS BOT IS MADE BY PREM BABU",
+  credits: "ARYAN KING",
+  description: "THIS BOT IS MADE BY ARYAN KING",
   usePrefix: true,
   commandCategory: "HELLO HY",
   usages: "HY HELLO HI",
@@ -83,7 +83,9 @@ let juswa = ["KYA AAP NE KHANA KHA LIYA...? 😊", "KYA KAR RAHI HO MERI JAAN...
       tag: name,
       id: event.senderID
     })
-    let msg = {body: `┏━━━━━┓\n     ARIF BABU                    ✧══•❁🐥❁•══✧\n┗━━━━━┛\n\n\nHELLO 𒁍 🌺${name}🌺\nHAVE A GOOD ${session}\n${juswa1}`, mentions}
+    let msg = {body: `┏━━━━━┓\n           ╔╬⓼★⓼╃───────➣™
+🄼🅁 🄱🄾🅃 🄾🅆🄽🄴🅁 🄰🅁🅈🄰🄽𝄠━─━Ⓔ⧐
+╰✾✾®️╀✿✿╀─━ↈⓇ⧐   ✧══•❁🐥❁•══✧\n┗━━━━━┛\n\n\nHELLO 𒁍 🌺${name}🌺\nHAVE A GOOD ${session}\n${juswa1}`, mentions}
     api.sendMessage(msg, event.threadID, (e, info) => {
       setTimeout(() => {
         api.sendMessage({sticker: sticker}, event.threadID);
