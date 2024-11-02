@@ -1,9 +1,9 @@
 module.exports.config = {
-	name: "gid",	
+	name: "uid",	
   version: "1.0.0", 
 	hasPermssion: 0,
-	credits: "ARIF BABU",
-	description: "THIS BOT IS MADE BY ARIF BABU", 
+	credits: "ARYAN KING",
+	description: "THIS BOT IS MADE BY ARYAN KING", 
 	commandCategory: "GROUP UID",
 	usages: "GID",
 	cooldowns: 5, 
