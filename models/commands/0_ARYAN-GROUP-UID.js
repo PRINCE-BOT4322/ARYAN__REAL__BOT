@@ -5,7 +5,7 @@ module.exports.config = {
 	credits: "ARYAN KING",
 	description: "THIS BOT IS MADE BY ARYAN KING", 
 	commandCategory: "GROUP UID",
-	usages: "GID",
+	usages: "uid",
 	cooldowns: 5, 
 	dependencies: '',
 };
