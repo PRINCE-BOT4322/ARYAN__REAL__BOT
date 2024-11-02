@@ -2,8 +2,8 @@ module.exports.config = {
   name: "birthday",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "ARIF BABU",
-  description: "THIS BOT IS MADE BY ARIF BABU",
+  credits: "ARYAN-KIMG",
+  description: "THIS BOT IS MADE BY ARYAN KING",
   commandCategory: "PROFILE DP",
   usages: "SELF DP AND MENTION",
   dependencies: {
